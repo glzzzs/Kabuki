@@ -1,2 +1,0 @@
-# Kabuki
-WebGPU PBR 👹
